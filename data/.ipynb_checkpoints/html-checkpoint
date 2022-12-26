@@ -1,0 +1,1117 @@
+<html>
+ <head>
+  <title>
+   Table of Standard Electrode Potentials
+  </title>
+ </head>
+ <body bgcolor="#FFE4C8">
+  <!-- Copyright 2001 by Carl Rod Nave, RodNave@gsu.edu-->
+  <a name="c1">
+  </a>
+  <table border="1" cellpadding="2" cellspacing="2" height="370" width="580">
+   <tr>
+    <td height="309" width="514">
+     <h1 align="center">
+      Standard Electrode Potentials in Aqueous Solution at 25°C
+     </h1>
+     <center>
+      <table border="1" cellpadding="2" cellspacing="2">
+       <tr>
+        <td>
+         Cathode (Reduction)
+         <br/>
+         Half-Reaction
+        </td>
+        <td>
+         Standard Potential
+         <br/>
+         E
+         <sup>
+          °
+         </sup>
+         (volts)
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Li
+         <sup>
+          +
+         </sup>
+         (aq) + e
+         <sup>
+          -
+         </sup>
+         -&gt; Li(s)
+        </td>
+        <td>
+         <center>
+          -3.04
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         K
+         <sup>
+          +
+         </sup>
+         (aq) + e
+         <sup>
+          -
+         </sup>
+         -&gt; K(s)
+        </td>
+        <td>
+         <center>
+          -2.92
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Ca
+         <sup>
+          2+
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; Ca(s)
+        </td>
+        <td>
+         <center>
+          -2.76
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Na
+         <sup>
+          +
+         </sup>
+         (aq) + e
+         <sup>
+          -
+         </sup>
+         -&gt; Na(s)
+        </td>
+        <td>
+         <center>
+          -2.71
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Mg
+         <sup>
+          2+
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; Mg(s)
+        </td>
+        <td>
+         <center>
+          -2.38
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Al
+         <sup>
+          3+
+         </sup>
+         (aq) + 3e
+         <sup>
+          -
+         </sup>
+         -&gt; Al(s)
+        </td>
+        <td>
+         <center>
+          -1.66
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         2H
+         <sub>
+          2
+         </sub>
+         O(l) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; H
+         <sub>
+          2
+         </sub>
+         (g) + 2OH
+         <sup>
+          -
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          -0.83
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Zn
+         <sup>
+          2+
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; Zn(s)
+        </td>
+        <td>
+         <center>
+          -0.76
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Cr
+         <sup>
+          3+
+         </sup>
+         (aq) + 3e
+         <sup>
+          -
+         </sup>
+         -&gt; Cr(s)
+        </td>
+        <td>
+         <center>
+          -0.74
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Fe
+         <sup>
+          2+
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; Fe(s)
+        </td>
+        <td>
+         <center>
+          -0.41
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Cd
+         <sup>
+          2+
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; Cd(s)
+        </td>
+        <td>
+         <center>
+          -0.40
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Ni
+         <sup>
+          2+
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; Ni(s)
+        </td>
+        <td>
+         <center>
+          -0.23
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Sn
+         <sup>
+          2+
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; Sn(s)
+        </td>
+        <td>
+         <center>
+          -0.14
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Pb
+         <sup>
+          2+
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; Pb(s)
+        </td>
+        <td>
+         <center>
+          -0.13
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Fe
+         <sup>
+          3+
+         </sup>
+         (aq) + 3e
+         <sup>
+          -
+         </sup>
+         -&gt; Fe(s)
+        </td>
+        <td>
+         <center>
+          -0.04
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         2H
+         <sup>
+          +
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; H
+         <sub>
+          2
+         </sub>
+         (g)
+        </td>
+        <td>
+         <center>
+          0.00
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Sn
+         <sup>
+          4+
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; Sn
+         <sup>
+          2+
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          0.15
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Cu
+         <sup>
+          2+
+         </sup>
+         (aq) + e
+         <sup>
+          -
+         </sup>
+         -&gt; Cu
+         <sup>
+          +
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          0.16
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         ClO
+         <sub>
+          4
+         </sub>
+         <sup>
+          -
+         </sup>
+         (aq) + H
+         <sub>
+          2
+         </sub>
+         O(l) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; ClO
+         <sub>
+          3
+         </sub>
+         <sup>
+          -
+         </sup>
+         (aq) + 2OH
+         <sup>
+          -
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          0.17
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         AgCl(s) + e
+         <sup>
+          -
+         </sup>
+         -&gt; Ag(s) + Cl
+         <sup>
+          -
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          0.22
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Cu
+         <sup>
+          2+
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; Cu(s)
+        </td>
+        <td>
+         <center>
+          0.34
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         ClO
+         <sub>
+          3
+         </sub>
+         <sup>
+          -
+         </sup>
+         (aq) + H
+         <sub>
+          2
+         </sub>
+         O(l) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; ClO
+         <sub>
+          2
+         </sub>
+         <sup>
+          -
+         </sup>
+         (aq) + 2OH
+         <sup>
+          -
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          0.35
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         IO
+         <sup>
+          -
+         </sup>
+         (aq) + H
+         <sub>
+          2
+         </sub>
+         O(l) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; I
+         <sup>
+          -
+         </sup>
+         (aq) + 2OH
+         <sup>
+          -
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          0.49
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Cu
+         <sup>
+          +
+         </sup>
+         (aq) + e
+         <sup>
+          -
+         </sup>
+         -&gt; Cu(s)
+        </td>
+        <td>
+         <center>
+          0.52
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         I
+         <sub>
+          2
+         </sub>
+         (s) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; 2I
+         <sup>
+          -
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          0.54
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         ClO
+         <sub>
+          2
+         </sub>
+         <sup>
+          -
+         </sup>
+         (aq) + H
+         <sub>
+          2
+         </sub>
+         O(l) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; ClO
+         <sup>
+          -
+         </sup>
+         (aq) + 2OH
+         <sup>
+          -
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          0.59
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Fe
+         <sup>
+          3+
+         </sup>
+         (aq) + e
+         <sup>
+          -
+         </sup>
+         -&gt; Fe
+         <sup>
+          2+
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          0.77
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Hg
+         <sub>
+          2
+         </sub>
+         <sup>
+          2+
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; 2Hg(l)
+        </td>
+        <td>
+         <center>
+          0.80
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Ag
+         <sup>
+          +
+         </sup>
+         (aq) + e
+         <sup>
+          -
+         </sup>
+         -&gt; Ag(s)
+        </td>
+        <td>
+         <center>
+          0.80
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Hg
+         <sup>
+          2+
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; Hg(l)
+        </td>
+        <td>
+         <center>
+          0.85
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         ClO
+         <sup>
+          -
+         </sup>
+         (aq) + H
+         <sub>
+          2
+         </sub>
+         O(l) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; Cl
+         <sup>
+          -
+         </sup>
+         (aq) + 2OH
+         <sup>
+          -
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          0.90
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         2Hg
+         <sup>
+          2+
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; Hg
+         <sub>
+          2
+         </sub>
+         <sup>
+          2+
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          0.90
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         NO
+         <sub>
+          3
+         </sub>
+         <sup>
+          -
+         </sup>
+         (aq) + 4H
+         <sup>
+          +
+         </sup>
+         (aq) + 3e
+         <sup>
+          -
+         </sup>
+         -&gt; NO(g) + 2H
+         <sub>
+          2
+         </sub>
+         O(l)
+        </td>
+        <td>
+         <center>
+          0.96
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Br
+         <sub>
+          2
+         </sub>
+         (l) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; 2Br
+         <sup>
+          -
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          1.07
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         O
+         <sub>
+          2
+         </sub>
+         (g) +  4H
+         <sup>
+          +
+         </sup>
+         (aq) + 4e
+         <sup>
+          -
+         </sup>
+         -&gt; 2H
+         <sub>
+          2
+         </sub>
+         O(l)
+        </td>
+        <td>
+         <center>
+          1.23
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Cr
+         <sub>
+          2
+         </sub>
+         O
+         <sub>
+          7
+         </sub>
+         <sup>
+          2-
+         </sup>
+         (aq) + 14H
+         <sup>
+          +
+         </sup>
+         (aq) + 6e
+         <sup>
+          -
+         </sup>
+         -&gt; 2Cr
+         <sup>
+          3+
+         </sup>
+         (aq) + 7H
+         <sub>
+          2
+         </sub>
+         O(l)
+        </td>
+        <td>
+         <center>
+          1.33
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Cl
+         <sub>
+          2
+         </sub>
+         (g) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; 2Cl
+         <sup>
+          -
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          1.36
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Ce
+         <sup>
+          4+
+         </sup>
+         (aq) + e
+         <sup>
+          -
+         </sup>
+         -&gt; Ce
+         <sup>
+          3+
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          1.44
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         MnO
+         <sub>
+          4
+         </sub>
+         <sup>
+          -
+         </sup>
+         (aq) + 8H
+         <sup>
+          +
+         </sup>
+         (aq) + 5e
+         <sup>
+          -
+         </sup>
+         -&gt; Mn
+         <sup>
+          2+
+         </sup>
+         (aq) + 4H
+         <sub>
+          2
+         </sub>
+         O(l)
+        </td>
+        <td>
+         <center>
+          1.49
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         H
+         <sub>
+          2
+         </sub>
+         O
+         <sub>
+          2
+         </sub>
+         (aq) + 2H
+         <sup>
+          +
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; 2H
+         <sub>
+          2
+         </sub>
+         O(l)
+        </td>
+        <td>
+         <center>
+          1.78
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Co
+         <sup>
+          3+
+         </sup>
+         (aq) + e
+         <sup>
+          -
+         </sup>
+         -&gt; Co
+         <sup>
+          2+
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          1.82
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         S
+         <sub>
+          2
+         </sub>
+         O
+         <sub>
+          8
+         </sub>
+         <sup>
+          2-
+         </sup>
+         (aq)  + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; 2SO
+         <sub>
+          4
+         </sub>
+         <sup>
+          2-
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          2.01
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         O
+         <sub>
+          3
+         </sub>
+         (g) +  2H
+         <sup>
+          +
+         </sup>
+         (aq) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; O
+         <sub>
+          2
+         </sub>
+         (g) + H
+         <sub>
+          2
+         </sub>
+         O(l)
+        </td>
+        <td>
+         <center>
+          2.07
+         </center>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         F
+         <sub>
+          2
+         </sub>
+         (g) + 2e
+         <sup>
+          -
+         </sup>
+         -&gt; 2F
+         <sup>
+          -
+         </sup>
+         (aq)
+        </td>
+        <td>
+         <center>
+          2.87
+         </center>
+        </td>
+       </tr>
+      </table>
+     </center>
+     <center>
+      <table border="1" cellpadding="2" cellspacing="2">
+       <tr>
+        <td>
+         <a href="../chemical/electrode.html#c1">
+          Discussion of Standard Electrode Potentials
+         </a>
+        </td>
+       </tr>
+      </table>
+     </center>
+    </td>
+    <td align="center" width="66">
+     <a href="../hframe.html">
+      Index
+     </a>
+     <br/>
+     <br/>
+     <a href="ttab.html#c1">
+      Tables
+     </a>
+     <br/>
+     <br/>
+     Reference
+     <br/>
+     <a href="../chemical/cheref.html">
+      Ebbing
+     </a>
+     <br/>
+     Appendix I
+    </td>
+   </tr>
+   <tr>
+    <td height="17">
+     <a href="../hph.html">
+      HyperPhysics
+     </a>
+     *****
+     <a href="../chemical/chemcon.html#c1">
+      Chemistry
+     </a>
+    </td>
+    <td>
+     <a href="Javascript:history.go(-1)">
+      Go Back
+     </a>
+    </td>
+   </tr>
+  </table>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+ </body>
+</html>
